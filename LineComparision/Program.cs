@@ -22,14 +22,21 @@ namespace LineComparision
             y4 = Convert.ToInt32(Console.ReadLine());       //Convert y4 value to integer
             double length1 = Math.Sqrt(Math.Pow(x2 - x1, 2) + Math.Pow(y2 - y1, 2));//Calculate length1 using math.sqrt formula
             double length2 = Math.Sqrt(Math.Pow(x4 - x3, 2) + Math.Pow(y4 - y3, 2));//Calculate length2 using math.sqrt formula
-            int diffrence = length1.CompareTo(length2);//compare method to compare 2 Lengths is Length1 and Length2
+            int diffrence = length1.CompareTo(length2);//Compare Two Lengths
+            Boolean deffrence2 = length1.Equals(length2);
+            if (deffrence2 == true)
+                Console.WriteLine("Both Lines are equal in length");//Both Lines are Equal in length
+            else
+                Console.WriteLine("Both are not same");//Both are not same
+
             if (diffrence == 0)
-                Console.WriteLine("Both Lines are equal in length");//Two lines are equal
-            else if (diffrence > 0) 
+                Console.WriteLine("Both Lines are equal in length");
+            else if (diffrence > 0)
                 Console.WriteLine("First Line is greater than Second Line");//First line is Greater than second line
             else
                 Console.WriteLine("First Line is smaller than Second Line");//First line is Smaller than second line
         }
+    }
 
 
     }
