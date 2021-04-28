@@ -1,0 +1,12 @@
+C:\Users\mahesh\source\repos\LineComparision\LineComparision\bin\Debug\netcoreapp2.1\LineComparision.deps.json
+C:\Users\mahesh\source\repos\LineComparision\LineComparision\bin\Debug\netcoreapp2.1\LineComparision.runtimeconfig.json
+C:\Users\mahesh\source\repos\LineComparision\LineComparision\bin\Debug\netcoreapp2.1\LineComparision.runtimeconfig.dev.json
+C:\Users\mahesh\source\repos\LineComparision\LineComparision\bin\Debug\netcoreapp2.1\LineComparision.dll
+C:\Users\mahesh\source\repos\LineComparision\LineComparision\bin\Debug\netcoreapp2.1\LineComparision.pdb
+C:\Users\mahesh\source\repos\LineComparision\LineComparision\obj\Debug\netcoreapp2.1\LineComparision.csprojAssemblyReference.cache
+C:\Users\mahesh\source\repos\LineComparision\LineComparision\obj\Debug\netcoreapp2.1\LineComparision.AssemblyInfoInputs.cache
+C:\Users\mahesh\source\repos\LineComparision\LineComparision\obj\Debug\netcoreapp2.1\LineComparision.AssemblyInfo.cs
+C:\Users\mahesh\source\repos\LineComparision\LineComparision\obj\Debug\netcoreapp2.1\LineComparision.csproj.CoreCompileInputs.cache
+C:\Users\mahesh\source\repos\LineComparision\LineComparision\obj\Debug\netcoreapp2.1\LineComparision.dll
+C:\Users\mahesh\source\repos\LineComparision\LineComparision\obj\Debug\netcoreapp2.1\LineComparision.pdb
+C:\Users\mahesh\source\repos\LineComparision\LineComparision\obj\Debug\netcoreapp2.1\LineComparision.genruntimeconfig.cache
